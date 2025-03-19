@@ -18,3 +18,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 </div>
+
+:computer: I’m a Blockchain Developer specializing in smart contracts and decentralized applications (DApps).
+
+:hammer_and_wrench: Experienced in Solidity, Hardhat, and SwisstronikJS for deploying ERC-20 & ERC-721 tokens.
+
+:globe_with_meridians: Building and maintaining blockchain infrastructure, including custom RPC and API services.
+
+:memo: Writing technical content and tutorials on blockchain development and validator operations.
+
+:zap: Passionate about exploring new blockchain frameworks, optimizing smart contract efficiency, and contributing to open-source projects.

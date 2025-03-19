@@ -1,6 +1,8 @@
 <div id="header" align="center">
-    <img src="https://i.postimg.cc/4NDNR2wT/Picsart-25-03-19-20-24-03-517.png" width="700" height="700"/>" width="300"/>
+    <img src="https://i.postimg.cc/4NDNR2wT/Picsart-25-03-19-20-24-03-517.png" width="700" height="700"/>"
 </div>
+
+## OneNov
 
 <div id="badges" align="center">
   <a href="https://t.me/OneNov02">

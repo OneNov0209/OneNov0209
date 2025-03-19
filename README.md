@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.postimg.cc/4NDNR2wT/Picsart-25-03-19-20-24-03-517.png" width="1000" height="1000"/>"
+    <img src="https://media1.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=6c09b9523mktu51suuy96wqawyfa2q6basces85iuhwdsnti&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="1000"/>"
 </div>
 
 <h1 align="center">OneNov</h1>

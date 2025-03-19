@@ -6,9 +6,6 @@
   <a href="https://t.me/OneNov02">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://x.com/Surya021292">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>

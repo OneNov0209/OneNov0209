@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 </div>
 
-
+<div align="left">
 ## About Me
 :computer: I’m a Blockchain Developer specializing in smart contracts and decentralized applications (DApps).
 
@@ -30,3 +30,4 @@
 :memo: Writing technical content and tutorials on blockchain development and validator operations.
 
 :zap: Passionate about exploring new blockchain frameworks, optimizing smart contract efficiency, and contributing to open-source projects.
+</div>

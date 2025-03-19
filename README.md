@@ -12,7 +12,7 @@
   </a>
 
 <h1>
-  <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=6c09b9520sx50mlvyq9jkh3l5rke3sp5r3vm0h6lsvu496mn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30px"/>
+  <img src="https://i.postimg.cc/t4dzbWXB/IMG-20250318-130541-918.jpg" width="30px"/>
 </h1>
 
 <div align="center">

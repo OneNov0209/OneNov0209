@@ -39,4 +39,6 @@
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OneNov0209&theme=dracula" alt="GitHub Streak" /></a>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OneNov0209&theme=blueberry-duo)](https://git.io/streak-stats)

@@ -19,6 +19,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 </div>
 
+
+## About Me
 :computer: I’m a Blockchain Developer specializing in smart contracts and decentralized applications (DApps).
 
 :hammer_and_wrench: Experienced in Solidity, Hardhat, and SwisstronikJS for deploying ERC-20 & ERC-721 tokens.

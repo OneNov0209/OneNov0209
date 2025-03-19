@@ -12,7 +12,7 @@
   </a>
 
 <h1>
-  <img src="https://i.postimg.cc/t4dzbWXB/IMG-20250318-130541-918.jpg" width="100px"/>
+  <img src="https://i.postimg.cc/t4dzbWXB/IMG-20250318-130541-918.jpg" width="300" height="600"/>
 </h1>
 
 <div align="center">

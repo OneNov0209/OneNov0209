@@ -34,7 +34,6 @@
 
 :zap: Passionate about exploring new blockchain frameworks, optimizing smart contract efficiency, and contributing to open-source projects.
 
-</div>
 
 
 <div align="left">

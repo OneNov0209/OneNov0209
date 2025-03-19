@@ -23,6 +23,7 @@
 ## About Me
 
 <div align="left">
+  
 :computer: I’m a Blockchain Developer specializing in smart contracts and decentralized applications (DApps).
 
 :hammer_and_wrench: Experienced in Solidity, Hardhat, and SwisstronikJS for deploying ERC-20 & ERC-721 tokens.
@@ -32,4 +33,5 @@
 :memo: Writing technical content and tutorials on blockchain development and validator operations.
 
 :zap: Passionate about exploring new blockchain frameworks, optimizing smart contract efficiency, and contributing to open-source projects.
+
 </div>

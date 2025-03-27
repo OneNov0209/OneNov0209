@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/ToMjGpPcTt3go0nrrFe/giphy.gif?cid=6c09b952dubwcdnf72vgyk4yef01ix9efjmoaljfum14g2s2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="300"/>
+    <img src="https://media1.giphy.com/media/ToMjGpPcTt3go0nrrFe/giphy.gif?cid=6c09b952dubwcdnf72vgyk4yef01ix9efjmoaljfum14g2s2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="500"/>
 </div>
 
 <h1 align="center">OneNov</h1>

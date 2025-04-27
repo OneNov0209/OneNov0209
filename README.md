@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media4.giphy.com/media/iuOsonutpp56lAyInN/giphy.gif?cid=6c09b9528tm61ojl3odep7v4rxk7obyfry1caswt7snwo6nl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="500"/>
+    <img src="https://media4.giphy.com/media/iuOsonutpp56lAyInN/giphy.gif" width="1000" height="500"/>
 </div>
 
 <h1 align="center">OneNov</h1>
